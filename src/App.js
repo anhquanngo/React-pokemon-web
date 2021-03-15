@@ -6,7 +6,10 @@ import Home from './pages/Home';
 import Detail from './pages/Detail';
 import MyBag from './pages/myBag';
 
+
 export default function App() {
+
+
   return (
     <BrowserRouter>
       <Switch>
