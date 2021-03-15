@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const axiosDefault = axios.create({
-    baseURL: 'https://pokeapi.co/api/v2/',
+    baseURL: 'https://pokeapi.co/api/v2/pokemon?limit=200&offset=0',
     headers: {
         'Content-Type': 'application/json',
     },
@@ -12,7 +12,7 @@ axiosDefault()
 export const listPokemon = () => {
     return new Promise((resolve, reject) => {
         axiosDefault
-            .get('pokemon')
+            .get()
             .then((result) => {
                 resolve(result);
             })

@@ -6,8 +6,13 @@ body {
 }
 
 .container {
+
   padding: 40px;
   margin: 0 auto;
+}
+
+p {
+  margin: 0px;
 }
 
 h1 {
@@ -43,10 +48,188 @@ h1 {
 }
 
 .card-subtitle {
-  margin-top: 5px;
+  margin: 5px;
   color: #666;
   font-weight: lighter;
 }
+
+.card-title-radio {
+  margin: 5px;
+  color: #666;
+  font-weight: lighter;
+}
+
+.card-subtitle-grass {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #46A047;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-poison {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #B11F83;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-fire {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #BD2027;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-water {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #0576BC;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-dark {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #0C313A;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-dark {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #0C313A;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-bug {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #E8E95F;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-flying {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #c9ccce;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-bug {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #E8E95F;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-electric {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #F5B915;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-rock {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #927F6D;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-ground {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #914F22;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-psychic {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #E06995;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-normal {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #FADB89;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-fairy {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #72D0EF;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-steel {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #B8B9BE;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-ice {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #63CDF6;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-fighting {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #95472B;
+  color: #fff;
+  border-radius: 10px;
+}
+
+.card-subtitle-ghost {
+  margin-bottom: 5px;
+  padding: 3px;
+  width: 100px;
+  background: #756C9F;
+  color: #fff;
+  border-radius: 10px;
+}
+
 
 .card-image {
   height: 180px;

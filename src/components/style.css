@@ -1,0 +1,19 @@
+.Loading {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 99;
+    background: rgba(0, 0, 0, 0.6) !important;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
+
+.Loading__icon {
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    left: auto;
+}
